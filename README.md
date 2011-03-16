@@ -29,7 +29,7 @@ Japanese reactor disasters:
  
 **Fallout Analysis**
 
-From http://radiationfacts.wordpress.com/2011/03/15/radiation-from-japanese-nuclear-plants-will-reach-the-united-states-next-week-will-you-be-prepared/:
+From [http://radiationfacts.wordpress.com/2011/03/15/radiation-from-japanese-nuclear-plants-will-reach-the-united-states-next-week-will-you-be-prepared/](http://radiationfacts.wordpress.com/2011/03/15/radiation-from-japanese-nuclear-plants-will-reach-the-united-states-next-week-will-you-be-prepared/):
 
  > "The radiation released in Japan will start to flow towards the United States and will arrive on the west coast in areas such as California, Washington, Oregon by next week, approximately 7 days after the earthquake. The east coast such as Newpre York and Florida will be impacted a couple days after the west coast."
 
