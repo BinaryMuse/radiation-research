@@ -35,7 +35,7 @@ From [http://radiationfacts.wordpress.com/2011/03/15/radiation-from-japanese-nuc
 
 Acute whole-body dose of under 50 rem is typically subclinical and will produce nothing other than blood changes. 50 to 200 rem may cause illness but will rarely be fatal.
 
-![Fallout Pattern](fallout_pattern.png)
+![Fallout Pattern](fallout_chart.png)
 
 The following is my research on the predicted fallout pattern shown above:
 
